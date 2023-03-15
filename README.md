@@ -8,7 +8,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 - [Links](#links)
   - [Construido com](#construido-com)
   - [Oque aprendi](#oque-aprendi)
-- [Desenvolvimento continuo](#desenvolvimento-continuo)
+- [Desenvolvimento contínuo](#desenvolvimento-continuo)
 
 ### Screenshot
 
@@ -16,7 +16,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- Solution URL: [](https://github.com/G-uilhermeF/qr-code-component-main)
+- Solution URL: [https://github.com/G-uilhermeF/QR-code-component-solution/blob/master/README.md]([https://github.com/G-uilhermeF/qr-code-component-main](https://github.com/G-uilhermeF/QR-code-component-solution/blob/master/README.md))
 - Live Site URL: [https://g-uilhermef.github.io/QR-code-component-solution/](https://g-uilhermef.github.io/QR-code-component-solution/)
 
 ### Construido com
@@ -27,8 +27,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Oque aprendi
 
-Aprendendo e pondo em pratica os conceitos de Flexbox, aperfeiçoando também o conceito de Box model, deixando o codigo HTML mais semanticamente mais organizado.
+Aprendendo e pondo em prática os conceitos de Flexbox, aperfeiçoando também o conceito de Box model, deixando o código HTML mais semanticamente mais organizado.
 
-### Desenvolvimento continuo
+### Desenvolvimento contínuo
 
-Agora é estudar mais e por mais em pratica, tudo aquilo que adquirido de conhecimento e cada vez mais aperfeçoar as boas praticas e melhorar cada vez os codigo, assim mantendo o conceito de clean code. Proximo passo agora é parti pra logica de programção com JavaScript e logo em seguida React. Foco é se tornar um bom FrontEnd
+Agora é estudar mais e por mais em prática, tudo aquilo adquirido de conhecimento e cada vez mais aperfeiçoar as boas práticas e melhorar cada vez os códigos, assim mantendo o conceito de clean code. Próximo passo agora é parti para logica de programação com JavaScript e logo em seguida React. Foco é se tornar um bom FrontEnd
