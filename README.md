@@ -16,7 +16,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/G-uilhermeF/QR-code-component-solution/blob/master/README.md]([https://github.com/G-uilhermeF/qr-code-component-main](https://github.com/G-uilhermeF/QR-code-component-solution/blob/master/README.md))
+- Solution URL: [https://github.com/G-uilhermeF/QR-code-component-solution]([https://github.com/G-uilhermeF/QR-code-component-solution)
 - Live Site URL: [https://g-uilhermef.github.io/QR-code-component-solution/](https://g-uilhermef.github.io/QR-code-component-solution/)
 
 ### Construido com
